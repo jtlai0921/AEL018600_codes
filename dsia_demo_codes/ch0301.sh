@@ -1,0 +1,1 @@
+pip install --upgrade sqlalchemy pymysql pandas
